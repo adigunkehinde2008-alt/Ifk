@@ -1,0 +1,14 @@
+{
+  "name": "ifk-shooter",
+  "version": "0.1.0",
+  "description": "Minimal online shooter starter: pointer-lock, mouse look, WebSocket server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "adigunkehinde2008-alt",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
